@@ -1,4 +1,4 @@
-- 👋 Hi, This August. You can simply call me like you pronounce an August in month.
+- 👋 Hi, This is August. You can simply call me like you pronounce an August in month.
 - 👀 I’m interested in Web-Development, Web-Design, Graphic Design, and Illustrating.
 - 🌱 I’m currently learning JavaScript, ReactJS, Redux, and any styling libraries such as Styled Components and ChakraUI. I'm a strong believer that a web should be built in mobile-first which also contributes to SEO system.
 - ❤ During my spare time, I love reading 📖 , playing 🎸 , writing 🗒 and 📚 , and I do exercise too such as 🏋🏻‍♂️ and 🧘🏻‍♂️.
